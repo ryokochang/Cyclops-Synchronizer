@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyclops Synchronizer", "Cyclops Synchronizer\Cyclops Synchronizer.csproj", "{A7B1A9CB-D133-463A-B7A0-9D97AD977A1B}"
 EndProject
-Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup Cyclops Synchronizer", "Setup Cyclops Synchronizer\Setup Cyclops Synchronizer.isproj", "{AB90CEE6-9409-479F-8D18-03C883429A37}"
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup", "Setup1\Setup.isproj", "{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,16 +26,16 @@ Global
 		{A7B1A9CB-D133-463A-B7A0-9D97AD977A1B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A7B1A9CB-D133-463A-B7A0-9D97AD977A1B}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
 		{A7B1A9CB-D133-463A-B7A0-9D97AD977A1B}.SingleImage|Any CPU.Build.0 = Release|Any CPU
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.CD_ROM|Any CPU.Build.0 = CD_ROM
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.Debug|Any CPU.ActiveCfg = DVD-5
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.Debug|Any CPU.Build.0 = DVD-5
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.DVD-5|Any CPU.ActiveCfg = DVD-5
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.DVD-5|Any CPU.Build.0 = DVD-5
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.Release|Any CPU.ActiveCfg = SingleImage
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.Release|Any CPU.Build.0 = SingleImage
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.SingleImage|Any CPU.ActiveCfg = SingleImage
-		{AB90CEE6-9409-479F-8D18-03C883429A37}.SingleImage|Any CPU.Build.0 = SingleImage
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.Debug|Any CPU.ActiveCfg = SingleImage
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.Debug|Any CPU.Build.0 = SingleImage
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.DVD-5|Any CPU.Build.0 = DVD-5
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.Release|Any CPU.ActiveCfg = SingleImage
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.Release|Any CPU.Build.0 = SingleImage
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{FFB878EF-27D3-4B6D-B59E-82AEFF7C1896}.SingleImage|Any CPU.Build.0 = SingleImage
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

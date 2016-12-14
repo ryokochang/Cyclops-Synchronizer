@@ -11,3 +11,12 @@ C:\Users\Alex Chang\Documents\GitHub\Cyclops Synchronizer\Cyclops Synchronizer\b
 C:\Users\Alex Chang\Documents\GitHub\Cyclops Synchronizer\Cyclops Synchronizer\bin\Release\Cyclops Synchronizer.exe
 C:\Users\Alex Chang\Documents\GitHub\Cyclops Synchronizer\Cyclops Synchronizer\bin\Release\Cyclops Synchronizer.pdb
 C:\Users\Alex Chang\Documents\GitHub\Cyclops Synchronizer\Cyclops Synchronizer\obj\Debug\Cyclops Synchronizer.csprojResolveAssemblyReference.cache
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\bin\Release\Cyclops Synchronizer.exe.config
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\obj\Debug\Cyclops Synchronizer.exe
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\obj\Debug\Cyclops Synchronizer.pdb
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\bin\Release\Cyclops Synchronizer.exe
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\bin\Release\Cyclops Synchronizer.pdb
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\obj\Debug\Cyclops Synchronizer.csprojResolveAssemblyReference.cache
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\obj\Debug\Cyclops_Synchronizer.MainForm.resources
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\obj\Debug\Cyclops_Synchronizer.Properties.Resources.resources
+C:\Users\Alex Chang\Documents\GitHub\Cyclops-Synchronizer\Cyclops Synchronizer\obj\Debug\Cyclops Synchronizer.csproj.GenerateResource.Cache
